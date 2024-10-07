@@ -1,0 +1,27 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-color: rgb(60, 43, 115); 
+    
+    min-height: 100%;
+}
+div{
+    background-color: rgb(115, 91, 194);
+    text-align: center;
+    /* margin: 200px; */
+    width: 300px;
+    border-radius: 7px;
+    border: 2px solid rgb(75, 60, 126);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color: white;
+    font-size: xxx-large;
+    font-weight: 900;
+}
